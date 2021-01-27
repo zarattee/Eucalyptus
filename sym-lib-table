@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Eucalyptus-rescue)(type Legacy)(uri ${KIPRJMOD}/Eucalyptus-rescue.lib)(options "")(descr ""))
+  (lib (name Device)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Device.lib)(options "")(descr ""))
 )
